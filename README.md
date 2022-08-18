@@ -1,7 +1,7 @@
 # Boas-vindas ao repositório do Job Insights!
 
 <details>
-  <summary><strong>👨‍💻 O que deverá foi desenvolvido</strong></summary><br />
+  <summary><strong>👨‍💻 O que foi desenvolvido</strong></summary><br />
   <p align="center">
     <img src="/.images/job.png" alt="Logo Aplicação" width="300"/>
   </p>
